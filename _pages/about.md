@@ -8,3 +8,11 @@ redirect_from:
 ---
 
 I am a 4th year EE PhD candidate at Stanford University. I am interested in physiological modeling for the purpose of improving clinical care. Currently, I develop statistical models of heartbeat dynamics and eating disorders.
+
+---
+
+## Contact
+
+- Email: somisash@stanford.edu
+- GitHub: https://github.com/somisash
+- LinkedIn: (optional)
